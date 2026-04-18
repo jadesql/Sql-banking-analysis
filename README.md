@@ -1,6 +1,6 @@
 # Mobile Banking SQL Analysis
 
-## 📊 Project Overview
+## Project Overview
 This project simulates a simple mobile banking system and uses SQL to analyze user transactions.
 
 ## 🗂 Dataset
