@@ -1,7 +1,7 @@
 # Mobile Banking SQL Analysis
 
 ## Project Overview
-This project simulates a simple mobile banking system and uses SQL to analyze user transactions.
+This project simulates a simple mobile banking system and uses SQL to analyse user transactions.
 
 ## Dataset
 - users: user information (user_id, age)
